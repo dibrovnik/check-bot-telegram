@@ -1,4 +1,5 @@
-<img scr="https://marcas-logos.net/wp-content/uploads/2019/12/Telegram-Logo-2013.png">
+<img src="https://marcas-logos.net/wp-content/uploads/2019/12/Telegram-Logo-2013.png" alt="Telegram Logo" width="100"/>
+
 # Telegram Check Bot
 
 A simple Telegram bot that generates customized PDF invoices based on user input. It allows adding multiple line items with descriptions and prices, calculates the total, and includes payment details at the bottom of the invoice.
